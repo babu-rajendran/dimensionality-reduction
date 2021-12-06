@@ -4,6 +4,7 @@ Dimensionality reduction techniques
 This repository has the implementation for dimensionality reduction techniques for a tabular and image data set.
 
 The dimensionality reduction techniques used are :
+
 i) PCA
 
 ii) SVD
